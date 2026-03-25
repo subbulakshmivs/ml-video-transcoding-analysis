@@ -77,6 +77,15 @@ The Tableau dashboard provides insights into:
 
 📌 Interactive filters are included for better analysis.
 
+## 📊 Dashboard
+
+🔗 Tableau Dashboard Link:
+https://public.tableau.com/app/profile/subbulakshmi.venkatesan/viz/mini_dashboard/Dashboard1
+
+📷 Dashboard Preview:
+
+![Dashboard](dashboard.png)
+
 ---
 
 ## 🔍 Key Insights
