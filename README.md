@@ -100,19 +100,3 @@ SHAP (SHapley Additive Explanations) is used to understand the contribution of e
 * Extend to digital forensics for detecting edited or manipulated videos
 * Implement real-time prediction systems
 * Improve dashboard with advanced analytics
-
----
-
-## 📎 GitHub Usage
-
-This repository is created for:
-
-* Version control
-* Code sharing
-* Project documentation
-
----
-
-## ⭐ Conclusion
-
-This project demonstrates how machine learning and data visualization can be combined to analyze and optimize video transcoding performance effectively.
